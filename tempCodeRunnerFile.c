@@ -1,1 +1,0 @@
-printf("Max : %d", max);
